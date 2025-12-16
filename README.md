@@ -2,7 +2,8 @@
 ```markdown path=/home/darol/Desktop/imGuiDockingTemplate/README.md start_line=1 end_line=40
 # ImGui Docking Template
 
-This repository provides a template for setting up an ImGui-based application with docking support. It is designed to help developers quickly bootstrap their projects with a functional and customizable user interface.
+This repository provides a template for setting up an ImGui-based application with docking support. 
+It is designed to help developers quickly bootstrap their projects with a functional and customizable user interface.
 
 ## Features
 
