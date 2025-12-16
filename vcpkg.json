@@ -1,0 +1,15 @@
+{
+  "name": "imgui-template",
+  "version": "0.15.2",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "glfw-binding",
+        "opengl3-binding",
+        "docking-experimental"
+          
+      ]
+    }
+  ]
+}
